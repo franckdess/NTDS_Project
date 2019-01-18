@@ -1,4 +1,4 @@
-# NTDS_Project
+# Finding Continents from a Flight Routes Network
 ## Omar Boujdaria, Franck Dessimoz, Arnaud Duvieusart and Adrien Vandenbroucque
 
 This repository contains the code for the Project of EPFL's Network Tour of Data Science course. The goal of this project is to perform community detection on a network of flight routes, with the goal of identifying the continents.
